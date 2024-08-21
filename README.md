@@ -20,7 +20,9 @@
   <img align="center" alt="Gui-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Csharp" height="30" width="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gui-MySQL" height="40" width="50" title="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?color=currentColor"
+  <img align="center" alt="Gui-MySQL" height="40" width="50" title="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?color=currentColor">
+  <img align="center" alt="Gui-Figma" height="25" width="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+  <img align="center" alt="Gui-Notion" height="25" width="30" title="Notion" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
 </div>
   
   ## 
