@@ -30,5 +30,5 @@
   <a href = "mailto:guilhermedequeiroz2014@gmail.com" target="_blank" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=darkred" target="_blank"></a>
   <a href = "mailto:guilhermedequeiroz2022@hotmail.com" title="Outlook" target="_blank"><img src="https://img.shields.io/badge/-Email-0073c6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/4WBqAJB" target="_blank" title="Discord: uGuiziiN/_guiziin"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/guilherme-rodrigues-ads" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilhermedequeiroz/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
