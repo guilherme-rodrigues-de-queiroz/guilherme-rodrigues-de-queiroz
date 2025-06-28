@@ -18,7 +18,10 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Bootstrap" height="35" width="50" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gui-TS" height="30" width="30" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201">
+  <img align="center" alt="Gui-React" height="25" width="25" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
+  <img align="center" alt="Gui-Vite" height="30" width="30" title="Vite" src="https://img.icons8.com/fluent/512/vite.png">
+  <img align="center" alt="Gui-Expo" height="30" width="40" title="Expo" src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg">
   <img align="center" alt="Gui-Csharp" height="30" width="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gui-MySQL" height="40" width="50" title="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?color=currentColor">
   <img align="center" alt="Gui-Figma" height="25" width="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
