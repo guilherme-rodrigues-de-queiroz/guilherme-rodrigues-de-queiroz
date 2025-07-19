@@ -79,12 +79,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues-de-queiroz&show_icons=true&locale=pt-BR&theme=github_dark" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-rodrigues-de-queiroz&layout=compact&locale=pt-BR&langs_count=10&card_width=320&theme=github_dark" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilherme-rodrigues-de-queiroz.guilherme-rodrigues-de-queiroz&left_color=github_dark&right_color=blue" width="80" />
-</div>
 <br>
 
 <h1 align="center">🌐Conecte-se</h1>
@@ -94,4 +88,10 @@
   <a href="https://www.linkedin.com/in/guilhermedequeiroz/" target="_blank" rel="noopener noreferrer" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermedequeiroz2014@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=darkred" target="_blank"></a>
   <a href="https://discord.gg/4WBqAJB" target="_blank" rel="noopener noreferrer" title="Discord: uGuiziiN/_guiziin"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilherme-rodrigues-de-queiroz.guilherme-rodrigues-de-queiroz&left_color=github_dark&right_color=blue" width="80" />
 </div>
