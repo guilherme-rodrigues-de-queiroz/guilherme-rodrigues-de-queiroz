@@ -1,37 +1,103 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=35&center=true&width=500&height=70&duration=5000&color=529aed&lines=Seja+Bem+Vindo(a)!;Veja+meus+projetos+%3A)" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=32&center=true&width=500&height=50&duration=5000&color=529aed&lines=Seja+Bem+Vindo(a)!;Veja+meus+projetos+%3A)" />
 </h1>
 
+<h3 align="center">Desenvolvedor FullStack</h3>
+<p align="center">Atualmente trabalhando com FlutterFlow e estudando C# .NET Framework</p>
 
-<a href="https://github.com/guilherme-rodrigues-de-queiroz/guilherme-rodrigues-de-queiroz/blob/main">
-  <img height=180 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues-de-queiroz&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/guilherme-rodrigues-de-queiroz/guilherme-rodrigues-de-queiroz/blob/main">
-  <img height=165 width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-rodrigues-de-queiroz&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</a>
+<h1 align="center">⚡Minhas Skills</h1>
 
-## 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Bootstrap" height="35" width="50" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-TS" height="30" width="30" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201">
-  <img align="center" alt="Gui-React" height="25" width="25" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
-  <img align="center" alt="Gui-Vite" height="30" width="30" title="Vite" src="https://img.icons8.com/fluent/512/vite.png">
-  <img align="center" alt="Gui-Expo" height="30" width="40" title="Expo" src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg">
-  <img align="center" alt="Gui-Csharp" height="30" width="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gui-MySQL" height="40" width="50" title="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?color=currentColor">
-  <img align="center" alt="Gui-Figma" height="25" width="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-  <img align="center" alt="Gui-Notion" height="25" width="30" title="Notion" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
+<h3 align="center">Linguagens de Programação & Marcação</h3>
+
+<div style="display: inline_block;" align="center">
+  <img title="CSharp" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/CSharp.svg" />
+  <img title="Java" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Java.svg" />
+  <img title="JavaScript" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/JavaScript.svg" />
+  <img title="TypeScript" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/TypeScript.svg" />
+  <img title="HTML5" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/HTML.svg" />
+  <img title="CSS3" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/CSS.svg" />
 </div>
-  
-  ## 
-<div> 
-  <a href = "mailto:guilhermedequeiroz2014@gmail.com" target="_blank" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=darkred" target="_blank"></a>
-  <a href = "mailto:guilhermedequeiroz2022@hotmail.com" title="Outlook" target="_blank"><img src="https://img.shields.io/badge/-Email-0073c6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/4WBqAJB" target="_blank" title="Discord: uGuiziiN/_guiziin"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/guilhermedequeiroz/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+
+<h3 align="center">Frameworks e Bibliotecas</h3>
+
+<div style="display: inline_block;" align="center">
+  <img title="React" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/React.svg" />
+  <img title=".NET" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/DotNet.svg" />
+  <img title="Flutter" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Flutter.svg" />
+   <img title="NodeJS" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/NodeJS.svg" />
+  <img title="Expo" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Expo.svg" />
+  <img title="Bootstrap" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Bootstrap.svg" />
+  <img title="Vite" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Vite.svg" />
+</div>
+<br>
+
+<h3 align="center">Ferramentas de Desenvolvimento</h3>
+
+<div style="display: inline_block;" align="center">
+  <img title="Swagger" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Swagger.svg" />
+  <img title="Android Studio" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/AndroidStudio.svg" />
+  <img title="FlutterFlow" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/FlutterFlow.svg" />
+  <img title="IntelliJ IDEA" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/IntelliJ%20IDEA.svg" />
+  <img title="Visual Studio Code" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/VSCode.svg" />
+  <img title="Visual Studio 2022" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/VisualStudio.svg" />
+</div>
+<br>
+
+<h3 align="center">Banco de Dados</h3>
+
+<div style="display: inline_block;" align="center">
+  <img title="MySQL" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/MySQL.svg" />
+  <img title="PostgreSQL" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/PostgreSQL.svg" />
+  <img title="MongoDB" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/MongoDB.svg" />
+</div>
+<br>
+
+<h3 align="center">UI/UX e Prototipação</h3>
+
+<div style="display: inline_block;" align="center">
+  <img title="Figma" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Figma.svg" />
+</div>
+<br>
+
+<h3 align="center">Controle de Versão</h3>
+
+<div style="display: inline_block;" align="center">
+  <img title="Git" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Git.svg" />
+  <img title="Github" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Github.svg" />
+</div>
+<br>
+
+<h3 align="center">Outros</h3>
+
+<div style="display: inline_block;" align="center">
+  <img title="Canva" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Canva.svg" />
+  <img title="Notion" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Notion.svg" />
+  <img title="Photoshop CS6" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Photoshop.svg" />
+  <img title="SketchUp" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Sketchup.svg" />
+  <img title="Trello" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Trello.svg" />
+</div>
+<br>
+
+<h1 align="center">🚀Estatísticas</h1>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues-de-queiroz&show_icons=true&locale=pt-BR&theme=github_dark" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-rodrigues-de-queiroz&layout=compact&locale=pt-BR&langs_count=10&card_width=320&theme=github_dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilherme-rodrigues-de-queiroz.guilherme-rodrigues-de-queiroz&left_color=github_dark&right_color=blue" width="80" />
+</div>
+<br>
+
+<h1 align="center">🌐Conecte-se</h1>
+<p align="center">Quer conectar-se ou entrar em contato? Me chame em alguma das plataformas abaixo.</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilhermedequeiroz/" target="_blank" rel="noopener noreferrer" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermedequeiroz2014@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=darkred" target="_blank"></a>
+  <a href="https://discord.gg/4WBqAJB" target="_blank" rel="noopener noreferrer" title="Discord: uGuiziiN/_guiziin"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
