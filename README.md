@@ -17,7 +17,6 @@
   <img title="HTML5" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/HTML.svg" />
   <img title="CSS3" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/CSS.svg" />
 </div>
-<br>
 
 <h3 align="center">Frameworks e Bibliotecas</h3>
 
@@ -30,7 +29,6 @@
   <img title="Bootstrap" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Bootstrap.svg" />
   <img title="Vite" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Vite.svg" />
 </div>
-<br>
 
 <h3 align="center">Ferramentas de Desenvolvimento</h3>
 
@@ -42,7 +40,6 @@
   <img title="Visual Studio Code" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/VSCode.svg" />
   <img title="Visual Studio 2022" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/VisualStudio.svg" />
 </div>
-<br>
 
 <h3 align="center">Banco de Dados</h3>
 
@@ -51,14 +48,12 @@
   <img title="PostgreSQL" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/PostgreSQL.svg" />
   <img title="MongoDB" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/MongoDB.svg" />
 </div>
-<br>
 
 <h3 align="center">UI/UX e Prototipação</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="Figma" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Figma.svg" />
 </div>
-<br>
 
 <h3 align="center">Controle de Versão</h3>
 
@@ -66,7 +61,6 @@
   <img title="Git" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Git.svg" />
   <img title="Github" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Github.svg" />
 </div>
-<br>
 
 <h3 align="center">Outros</h3>
 
