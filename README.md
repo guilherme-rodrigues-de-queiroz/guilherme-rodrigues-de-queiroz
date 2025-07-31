@@ -73,7 +73,7 @@
 </div>
 <br>
 
-<h1 align="center">🚀Stats</h1>
+<h1 align="center">🚀Github Stats</h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues-de-queiroz&show_icons=true&locale=en&theme=github_dark" />
