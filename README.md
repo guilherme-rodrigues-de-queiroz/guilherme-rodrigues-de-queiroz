@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=32&center=true&width=500&height=50&duration=5000&color=529aed&lines=Seja+Bem+Vindo(a)!;Veja+meus+projetos+%3A)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=32&center=true&width=500&height=50&duration=5000&color=529aed&lines=Welcome!;Check+out+my+projects+%3A)" />
 </h1>
 
-<h3 align="center">Desenvolvedor FullStack</h3>
-<p align="center">Atualmente trabalhando com FlutterFlow e estudando C# .NET Framework</p>
+<h3 align="center">FullStack Developer</h3>
+<p align="center">Currently working with FlutterFlow and studying C# .NET Framework</p>
 
-<h1 align="center">⚡Minhas Skills</h1>
+<h1 align="center">⚡Hard Skills</h1>
 
-<h3 align="center">Linguagens de Programação & Marcação</h3>
+<h3 align="center">Programming & Markup Languages</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="CSharp" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/CSharp.svg" />
@@ -18,7 +18,7 @@
   <img title="CSS3" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/CSS.svg" />
 </div>
 
-<h3 align="center">Frameworks e Bibliotecas</h3>
+<h3 align="center">Frameworks and Libraries</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="React" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/React.svg" />
@@ -30,7 +30,7 @@
   <img title="Vite" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Vite.svg" />
 </div>
 
-<h3 align="center">Ferramentas de Desenvolvimento</h3>
+<h3 align="center">Development Tools</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="Swagger" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Swagger.svg" />
@@ -41,7 +41,7 @@
   <img title="Visual Studio 2022" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/VisualStudio.svg" />
 </div>
 
-<h3 align="center">Banco de Dados</h3>
+<h3 align="center">Databases</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="MySQL" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/MySQL.svg" />
@@ -49,20 +49,20 @@
   <img title="MongoDB" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/MongoDB.svg" />
 </div>
 
-<h3 align="center">UI/UX e Prototipação</h3>
+<h3 align="center">UI/UX and Prototype</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="Figma" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Figma.svg" />
 </div>
 
-<h3 align="center">Controle de Versão</h3>
+<h3 align="center">Version Control</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="Git" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Git.svg" />
   <img title="Github" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Github.svg" />
 </div>
 
-<h3 align="center">Outros</h3>
+<h3 align="center">Others</h3>
 
 <div style="display: inline_block;" align="center">
   <img title="Canva" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Canva.svg" />
@@ -73,16 +73,16 @@
 </div>
 <br>
 
-<h1 align="center">🚀Estatísticas</h1>
+<h1 align="center">🚀Stats</h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues-de-queiroz&show_icons=true&locale=pt-BR&theme=github_dark" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-rodrigues-de-queiroz&layout=compact&locale=pt-BR&langs_count=10&card_width=320&theme=github_dark" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues-de-queiroz&show_icons=true&locale=en&theme=github_dark" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-rodrigues-de-queiroz&layout=compact&locale=en&langs_count=10&card_width=320&theme=github_dark" />
 </div>
 <br>
 
-<h1 align="center">🌐Conecte-se</h1>
-<p align="center">Quer conectar-se ou entrar em contato? Me chame em alguma das plataformas abaixo.</p>
+<h1 align="center">🌐Connect with me</h1>
+<p align="center">Want to connect or get in touch? Reach out to me on one of the platforms below.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermedequeiroz/" target="_blank" rel="noopener noreferrer" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
