@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=32&center=true&width=500&height=50&duration=5000&color=529aed&lines=Welcome!;Check+out+my+projects+%3A)" />
 </h1>
 
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Software Developer</h3>
 <p align="center">Currently working with React Native and studying C# .NET Framework</p>
 
 <h1 align="center">⚡Hard Skills</h1>
