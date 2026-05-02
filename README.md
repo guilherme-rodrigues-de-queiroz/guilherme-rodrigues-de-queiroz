@@ -9,86 +9,87 @@
 
 <h3 align="center">Programming & Markup Languages</h3>
 
-<div style="display: inline_block;" align="center">
-  <img title="CSharp" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/CSharp.svg" />
-  <img title="Java" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Java.svg" />
-  <img title="JavaScript" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/JavaScript.svg" />
-  <img title="TypeScript" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/TypeScript.svg" />
-  <img title="HTML5" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/HTML.svg" />
-  <img title="CSS3" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/CSS.svg" />
-</div>
+<p align="center">
+  <img title="CSharp" width="48" src="https://icons-website-beige.vercel.app/icons/CSharp.svg" />
+  <img title="Java" width="48" src="https://icons-website-beige.vercel.app/icons/Java.svg" />
+  <img title="JavaScript" width="48" src="https://icons-website-beige.vercel.app/icons/JavaScript.svg" />
+  <img title="TypeScript" width="48" src="https://icons-website-beige.vercel.app/icons/TypeScript.svg" />
+  <img title="HTML5" width="48" src="https://icons-website-beige.vercel.app/icons/HTML.svg" />
+  <img title="CSS3" width="48" src="https://icons-website-beige.vercel.app/icons/CSS.svg" />
+</p>
 
 <h3 align="center">Frameworks and Libraries</h3>
 
-<div style="display: inline_block;" align="center">
-  <img title="React" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/React.svg" />
-  <img title=".NET" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/DotNet.svg" />
-  <img title="Flutter" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Flutter.svg" />
-   <img title="NodeJS" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/NodeJS.svg" />
-  <img title="Expo" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Expo.svg" />
-  <img title="Bootstrap" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Bootstrap.svg" />
-  <img title="Vite" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Vite.svg" />
-</div>
+<p align="center">
+  <img title="React" width="48" src="https://icons-website-beige.vercel.app/icons/React.svg" />
+  <img title=".NET" width="48" src="https://icons-website-beige.vercel.app/icons/DotNet.svg" />
+  <img title="Flutter" width="48" src="https://icons-website-beige.vercel.app/icons/Flutter.svg" />
+  <img title="NodeJS" width="48" src="https://icons-website-beige.vercel.app/icons/NodeJS.svg" />
+  <img title="Expo" width="48" src="https://icons-website-beige.vercel.app/icons/Expo.svg" />
+  <img title="Bootstrap" width="48" src="https://icons-website-beige.vercel.app/icons/Bootstrap.svg" />
+  <img title="Vite" width="48" src="https://icons-website-beige.vercel.app/icons/Vite.svg" />
+</p>
 
 <h3 align="center">Development Tools</h3>
 
-<div style="display: inline_block;" align="center">
-  <img title="Swagger" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Swagger.svg" />
-  <img title="Android Studio" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/AndroidStudio.svg" />
-  <img title="FlutterFlow" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/FlutterFlow.svg" />
-  <img title="IntelliJ IDEA" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/IntelliJ%20IDEA.svg" />
-  <img title="Visual Studio Code" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/VSCode.svg" />
-  <img title="Visual Studio 2022" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/VisualStudio.svg" />
-</div>
+<p align="center">
+  <img title="Swagger" width="48" src="https://icons-website-beige.vercel.app/icons/Swagger.svg" />
+  <img title="Android Studio" width="48" src="https://icons-website-beige.vercel.app/icons/AndroidStudio.svg" />
+  <img title="FlutterFlow" width="48" src="https://icons-website-beige.vercel.app/icons/FlutterFlow.svg" />
+  <img title="IntelliJ IDEA" width="48" src="https://icons-website-beige.vercel.app/icons/IntelliJ%20IDEA.svg" />
+  <img title="Visual Studio Code" width="48" src="https://icons-website-beige.vercel.app/icons/VSCode.svg" />
+  <img title="Visual Studio 2022" width="48" src="https://icons-website-beige.vercel.app/icons/VisualStudio.svg" />
+</p>
 
 <h3 align="center">Databases</h3>
 
-<div style="display: inline_block;" align="center">
-  <img title="MySQL" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/MySQL.svg" />
-  <img title="PostgreSQL" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/PostgreSQL.svg" />
-  <img title="MongoDB" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/MongoDB.svg" />
-</div>
+<p align="center">
+  <img title="MySQL" width="48" src="https://icons-website-beige.vercel.app/icons/MySQL.svg" />
+  <img title="PostgreSQL" width="48" src="https://icons-website-beige.vercel.app/icons/PostgreSQL.svg" />
+  <img title="MongoDB" width="48" src="https://icons-website-beige.vercel.app/icons/MongoDB.svg" />
+</p>
 
 <h3 align="center">UI/UX and Prototype</h3>
 
-<div style="display: inline_block;" align="center">
-  <img title="Figma" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Figma.svg" />
-</div>
+<p align="center">
+  <img title="Figma" width="48" src="https://icons-website-beige.vercel.app/icons/Figma.svg" />
+</p>
 
 <h3 align="center">Version Control</h3>
 
-<div style="display: inline_block;" align="center">
-  <img title="Git" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Git.svg" />
-  <img title="Github" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Github.svg" />
-</div>
+<p align="center">
+  <img title="Git" width="48" src="https://icons-website-beige.vercel.app/icons/Git.svg" />
+  <img title="Github" width="48"src="https://icons-website-beige.vercel.app/icons/Github.svg" />
+</p>
 
 <h3 align="center">Others</h3>
 
-<div style="display: inline_block;" align="center">
-  <img title="Canva" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Canva.svg" />
-  <img title="Notion" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Notion.svg" />
-  <img title="Photoshop CS6" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Photoshop.svg" />
-  <img title="SketchUp" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Sketchup.svg" />
-  <img title="Trello" style="cursor: pointer;" width="48" height="48" src="https://icons-website-beige.vercel.app/icons/Trello.svg" />
-</div>
+<p align="center">
+  <img title="Canva" width="48" src="https://icons-website-beige.vercel.app/icons/Canva.svg" />
+  <img title="Notion" width="48" src="https://icons-website-beige.vercel.app/icons/Notion.svg" />
+  <img title="Photoshop CS6" width="48" src="https://icons-website-beige.vercel.app/icons/Photoshop.svg" />
+  <img title="SketchUp" width="48" src="https://icons-website-beige.vercel.app/icons/Sketchup.svg" />
+  <img title="Trello" width="48" src="https://icons-website-beige.vercel.app/icons/Trello.svg" />
+</p>
 <br>
 
 <h1 align="center">🚀Github Stats</h1>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues-de-queiroz&show_icons=true&locale=en&theme=github_dark" />
+<p align="center">
+  <img height="140em" src="https://streak-stats.demolab.com?user=guilherme-rodrigues-de-queiroz&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-rodrigues-de-queiroz&layout=compact&locale=en&langs_count=10&card_width=320&theme=github_dark" />
-</div>
+</p>
+
 <br>
 
 <h1 align="center">🌐Connect with me</h1>
 <p align="center">Want to connect or get in touch? Reach out to me on one of the platforms below.</p>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/guilhermedequeiroz/" target="_blank" rel="noopener noreferrer" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermedequeiroz2014@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=darkred" target="_blank"></a>
   <a href="https://discord.gg/4WBqAJB" target="_blank" rel="noopener noreferrer" title="Discord: uGuiziiN/_guiziin"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+</p>
 
 <br>
 
