@@ -77,7 +77,6 @@
 
 <p align="center">
   <img height="140em" src="https://streak-stats.demolab.com?user=guilherme-rodrigues-de-queiroz&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-rodrigues-de-queiroz&layout=compact&locale=en&langs_count=10&card_width=320&theme=github_dark" />
 </p>
 
 <br>
