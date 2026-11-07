@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Software Developer</h3>
-<p align="center">Currently working with React Native and studying C# .NET Framework</p>
+<p align="center">Currently working with React and Windows Forms C# .NET Framework</p>
 
 <h1 align="center">⚡Hard Skills</h1>
 
